@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EatMeWeb", "EatMeWeb\EatMeWeb.csproj", "{5CBDB307-6528-4BD1-8B38-F862543AA2B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess\DataAccess.csproj", "{E2FEE954-3C8B-4920-A583-2DD6B862C65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.csproj", "{D6463BE1-C931-4395-B160-CC5441CAA181}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5CBDB307-6528-4BD1-8B38-F862543AA2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CBDB307-6528-4BD1-8B38-F862543AA2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CBDB307-6528-4BD1-8B38-F862543AA2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FEE954-3C8B-4920-A583-2DD6B862C65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FEE954-3C8B-4920-A583-2DD6B862C65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FEE954-3C8B-4920-A583-2DD6B862C65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FEE954-3C8B-4920-A583-2DD6B862C65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6463BE1-C931-4395-B160-CC5441CAA181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6463BE1-C931-4395-B160-CC5441CAA181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6463BE1-C931-4395-B160-CC5441CAA181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6463BE1-C931-4395-B160-CC5441CAA181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
